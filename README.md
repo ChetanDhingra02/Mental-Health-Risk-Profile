@@ -66,7 +66,7 @@ rather than relying on hidden or circular signals.
 ## Model Performance
 
 <p align="center">
-  <img src="images/roc_curve.png" width="500"/>
+  <img src="roc_curve.png" width="500"/>
 </p>
 
 The final model achieves:
@@ -104,7 +104,7 @@ This choice was motivated by:
 ## Feature Importance and Interpretation
 
 <p align="center">
-  <img src="images/feature_importance.png" width="600"/>
+  <img src="feature_importance.png" width="600"/>
 </p>
 
 The model identifies several key drivers of depression risk:
@@ -127,7 +127,7 @@ These findings are consistent with established research in mental health and soc
 ## Synthetic Profile Validation
 
 <p align="center">
-  <img src="images/profile_comparison.png" width="700"/>
+  <img src="profile_comparison.png" width="700"/>
 </p>
 
 To validate model behavior, synthetic user profiles were constructed to simulate real-world scenarios.
